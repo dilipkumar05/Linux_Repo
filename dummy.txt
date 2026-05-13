@@ -1,0 +1,26 @@
+
+jshjddlkksd
+welcome to intellipaat
+fghdkjashjdksahd
+hjjj
+
+Intellipaat course script 2019
+
+This script starts here
+
+Intellipaat course names:
+Python
+Django
+Unix
+Devops
+Machine Learning
+
+Intellipaat course codes:
+
+Python IP10010
+Django IP10011
+Unix IP10001
+Devops IP10020
+Machine Learning IP10013
+
+End of script
